@@ -10,3 +10,12 @@ Dieses Repo dient dazu, den kompletten Ablauf zu üben:
 3. Commit
 4. Push
 5. Pull Request öffnen
+
+## Nutzung
+
+Repo klonen und lokal ausprobieren:
+
+```bash
+git clone https://github.com/airichnikolaus-ui/pr-uebung.git
+cd pr-uebung
+```
