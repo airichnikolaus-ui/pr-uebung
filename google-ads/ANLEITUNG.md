@@ -13,7 +13,7 @@ Datei: `kampagne-import.csv` (1 Kampagne, 4 Anzeigengruppen, Keywords als Wortgr
 - **Anzeigenplan:** Mo–Fr 7–18 Uhr.
 - **Erweiterungen:** Telefonnummer, Sitelinks, Standort.
 - **Conversions:** Anrufe und Kontaktformular messen.
-- **Final URL:** je Anzeigengruppe auf die passende Unterseite ändern (derzeit überall die Startseite).
+- **Final URL:** je Anzeigengruppe auf die passende Unterseite ändern (derzeit überall `/leistungen/`).
 - Budget 8 €/Tag ist gesetzt; Max-CPC 2,50 € (Marke 1,00 €).
 - Dann Kampagne auf **Aktiviert** stellen → „Änderungen veröffentlichen“.
 
